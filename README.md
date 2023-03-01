@@ -4,7 +4,7 @@
 
 This site is a simple calendar application that allows a user to save events for each hour of the work day (9AM-5PM). Employees with busy schedules can add important events to a daily planner so that they can manage their time effectively. The time blocks are color to represent past, present, or future hours. Any events entered followed by being saved with the save button will remain on the page even if it is refreshed.
 
-You can visit the live site here: 
+You can visit the live site here: https://lnsvn.github.io/05-third-party-apis/ 
 
 ## Table of Contents
 
